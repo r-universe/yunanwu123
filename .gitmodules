@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DTRKernSmooth"]
 	path = DTRKernSmooth
 	url = https://github.com/yunanwu123/dtrkernsmooth
-	shallow = true
-	registered = true
