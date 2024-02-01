@@ -5,3 +5,6 @@
 [submodule "DTRKernSmooth"]
 	path = DTRKernSmooth
 	url = https://github.com/yunanwu123/dtrkernsmooth
+[submodule "TFRE"]
+	path = TFRE
+	url = https://github.com/yunanwu123/tfre
